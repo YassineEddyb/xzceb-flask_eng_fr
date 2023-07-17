@@ -1,6 +1,6 @@
 ''' this module is for translating french to english and viceversa'''
 
-from deep_translator import GoogleTranslator as MyMemoryTranslator
+from deep_translator import MyMemoryTranslator
 
 # english to french
 def english_to_french(english_text):
